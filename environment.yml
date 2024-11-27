@@ -1,4 +1,4 @@
-name: machine_learning_tutorial_test_env
+name: machine_learning_tutorial
 channels:
   - conda-forge
 dependencies:
