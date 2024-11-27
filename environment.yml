@@ -1,0 +1,15 @@
+name: machine_learning_tutorial_test_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - scikit-learn==1.5.2
+    - ipykernel==6.29.5
+    - pandas==2.2.3
+    - seaborn==0.13.2
+    - lightgbm==4.5.0
+    - optuna==4.0.0
+    - shap==0.46.0
+    - xarray==2024.10.0
