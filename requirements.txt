@@ -5,3 +5,4 @@ seaborn==0.13.2
 lightgbm==4.5.0
 optuna==4.0.0
 shap==0.46.0
+xarray==2024.10.0
