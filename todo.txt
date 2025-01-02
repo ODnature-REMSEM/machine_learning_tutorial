@@ -1,5 +1,0 @@
-- Explainability
-- Exporting your model
-- Satellite imagery reading
-- Satellite imagery reconstruction
-- Computer vision techniques

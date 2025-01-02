@@ -13,3 +13,7 @@ dependencies:
     - optuna==4.0.0
     - shap==0.46.0
     - xarray==2024.10.0
+    - netCDF4==1.7.2
+    - h5netcdf==1.4.1
+    - tensorflow==2.18.0
+    - opencv-python==4.10.0.84
