@@ -16,18 +16,24 @@ This will install the required libraries and python version. If you prefer not t
 
 ## Notebooks
 
-[`1_basic_regression.ipynb`](1_basic_regression.ipynb): Showcases a simple regression model.
+[`01_basic_regression.ipynb`](01_basic_regression.ipynb): Showcases a simple regression model.
 
-[`2_basic_classification.ipynb`](2_basic_classification.ipynb): Showcases a simple classification model.
+[`02_basic_classification.ipynb`](02_basic_classification.ipynb): Showcases a simple classification model.
 
-[`3_different_models.ipynb`](3_different_models.ipynb): Shows how different models can be used and compared.
+[`03_different_models.ipynb`](03_different_models.ipynb): Shows how different models can be used and compared.
 
-[`4_preprocessing.ipynb`](4_preprocessing.ipynb): Goes over data preprocessing for machine learning.
+[`04_preprocessing.ipynb`](04_preprocessing.ipynb): Goes over data preprocessing for machine learning.
 
-[`5_sklearn_pipelines.ipynb`](5_sklearn_pipelines.ipynb): Shows how to integrate the preprocessing steps into your model.
+[`05_sklearn_pipelines.ipynb`](05_sklearn_pipelines.ipynb): Shows how to integrate the preprocessing steps into your model.
 
-[`6_hyperparameter_tuning.ipynb`](6_hyperparameter_tuning.ipynb): Shows how to tune the parameters of your model.
+[`06_hyperparameter_tuning.ipynb`](06_hyperparameter_tuning.ipynb): Shows how to tune the parameters of your model.
 
-[`7_model_export.ipynb`](7_model_export.ipynb): Shows how to export your model as a file to be used in a different place.
+[`07_model_export.ipynb`](07_model_export.ipynb): Shows how to export your model as a file to be used in a different place.
 
-[`8_explainability.ipynb`](8_explainability.ipynb): Shows how to make your model explainable and explain the influence of certain features.
+[`08_explainability.ipynb`](08_explainability.ipynb): Shows how to make your model explainable and explain the influence of certain features.
+
+[`09_geospatial_machine_learning.ipynb`](09_geospatial_machine_learning.ipynb): Shows how you can apply machine learning to geospatial data.
+
+[`10_geospatial_data_splitting.ipynb`](10_geospatial_data_splitting.ipynb): Goes over the possible sources of data leakage, and how to prevent this in geospatial data.
+
+[`11_computer_vision.ipynb`](11_computer_vision.ipynb): Goes over basic concepts of computer vision, and shows how to implement a model from scratch, or pretrained.
